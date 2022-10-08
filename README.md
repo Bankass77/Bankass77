@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bankass77
-- 👀 I’m interested in ...
+- 👀 I’m interested in application development and participate to open source projects.
 - 🌱 I’m currently learning fullstack development 
 - 💞️ I’m looking to collaborate on  different types of projects. ..
 - 📫 How to reach me by email amguindo77@gmail.com. 
